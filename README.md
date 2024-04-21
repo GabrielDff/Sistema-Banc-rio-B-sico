@@ -3,7 +3,7 @@
 
 ### Este projeto consiste na implementação em **Python** de três funcionalidades básicas de um sistema bancário (depósito, saque e visualização de extrato).
 
-Vale ressaltar que, por se tratar de um sistema bem básico, não é solicitado nenhum tipo de credencial para acesso, além de que as operações de depósito não solicitando informações sobre a conta de destino, uma vez que, nesse caso, só existe uma conta bancária. Ao iniciar, o usuário imediatamente recebe uma mensagem de boas vindas seguida de uma solicitação para escolha de uma das opções, sendo elas:
+Vale ressaltar que, por se tratar de um sistema bem básico, não é solicitado nenhum tipo de credencial para acesso, além de que as operações de depósito não solicitam informações sobre a conta de destino, uma vez que, nesse caso, só existe uma conta bancária. Ao iniciar, o usuário imediatamente recebe uma mensagem de boas vindas seguida de uma solicitação para escolha de uma das opções, sendo elas:
 
 - **[D] Depósito:** o usuário deve indicar o valor para depósito.
 - **[S] Saque:** o usuário deve indicar o valor a ser sacado, devendo ser observadas as restrições para realização de um saque.
